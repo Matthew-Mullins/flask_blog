@@ -1,10 +1,11 @@
 {
-    "python.pythonPath": "d:\\Workspace\\Python\\Python3\\resume\\flask_blog\\flask\\Scripts\\python.exe",
     "python.linting.pylintArgs": [
         "--load-plugins",
         "pylint_flask_sqlalchemy",
         "pylint_flask",
     ],
+    "python.pythonPath": "d:\\Workspace\\Python\\Python3\\resume\\flask_blog\\flask\\Scripts\\python.exe",
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false
 }
